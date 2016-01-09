@@ -6,7 +6,7 @@ This is a basic lilypond package template, for use with [lyp](https://github.com
 
 - Fork this repository.
 - Edit <code>package.ly</code>, add more files if desired.
-- Version your package by adding git tags. Version tags can be optionally prefixed with <code>v</code> (for example <code>v0.2</code>).
+- Version your package by adding git tags. Version tags can be optionally prefixed with <code>v</code> (for example <code>v0.2</code>). Versions should follow the rules of [semantic versioning](http://semver.org/).
 - Commit and push it to github or another website of your choosing.
 - Optional: add your package to the [lyp package index](https://github.com/noteflakes/lyp-index).
 
